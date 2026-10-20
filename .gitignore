@@ -1,0 +1,17 @@
+# Build output
+out/
+bin/
+*.class
+
+# Runtime output created by menu option 6
+cart_summary.txt
+
+# IDE / OS
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
